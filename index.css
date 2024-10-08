@@ -1,0 +1,81 @@
+.header{ 
+background-image: url(../../../Downloads/photo_2024-10-08_18-42-42.jpg);
+height: 300px;
+font-family: "Pacifico", cursive;
+text-align: center;
+padding-top: 50px;
+font-size: 40px;
+color:#41292c;
+}
+h3{
+    text-align: center;
+    color: #5c484b;
+}
+.first_p {
+    color: #a19d98;
+}
+.roasting{
+    font-family: "Josefin Sans", sans-serif;
+    
+}
+body{
+    background-color: #eee8e0;}
+.roasting{
+    background-color: #ffff;
+    width: 1000px;
+    margin: auto;
+
+    
+}
+.green{
+    background-color: #99c39a;
+    margin: -23px auto;
+    width: 950px;
+}
+h4, h5, p{
+    color: white;
+}
+.light{
+    background-color: #a96342;
+    margin-top: 0; 
+    padding-top: 0;
+    margin: -23px auto;
+    width: 950px;
+}
+.city{
+    background-color: #96582e;
+    margin: -23px auto;
+    width: 950px;
+}
+.vienna{
+    background-color: #af4040;
+    margin: -23px auto;
+    width: 950px;
+}
+.italian{
+    background-color: #191919;
+    margin: -23px auto;
+    width: 950px;
+}
+h2{
+    color: #e3bc99;
+    
+}
+.white{
+    color: #b5b2ae;
+    
+}
+a{
+    color: #547560;
+    text-decoration: none;
+}
+.hr{
+    height: 2px;
+    background-color: #ead3bf;
+}
+.bags, .first_p{
+    background-color: white;
+}
+.aplle{
+    margin: 15px a;
+}
